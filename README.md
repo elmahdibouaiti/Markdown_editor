@@ -1,4 +1,4 @@
-# Markdown Editor Tutorial
+# Markdown Editor
 
 ![screenshot](./doc/screenshot.png)
 
