@@ -1,10 +1,6 @@
 {
-  "name": "electron-markdown-editor-tutorial",
+  "name": "electron-markdown-editor",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/craftzdog/electron-markdown-editor-tutorial.git"
-  },
   "keywords": [
     "Markdown",
     "remark",
@@ -13,7 +9,7 @@
     "Vite",
     "TypeScript"
   ],
-  "author": "Takuya Matsuyama",
+  "author": "El Mahdi BOUAITI",
   "license": "MIT",
   "engines": {
     "node": ">=v14.16",
